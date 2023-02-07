@@ -43,3 +43,5 @@ You will not pass this challenge if you attempt to assign the Sample Case values
 ================================================================
 
 Note `gets` in this case; refer to inputs. Cool new string methods learnt - `to_i` which processes string by skipping over spaces on the left and reading largest integer, `to_f` which takes string as input and produces flaot object as output and lastly `rstrip` which literally means remove all spaces on the right side.
+
+Reference: https://www.reddit.com/r/learnruby/comments/8f6t8d/30_days_of_code_day_1_data_types/
