@@ -46,5 +46,5 @@ We round to the nearest integer and print the result, .
 
 =========================================
 
-May be worth further exploring and reading up on this for fun
-Reference: https://www.rubyguides.com/2018/07/ruby-operators/
+Reference:
+https://www.rubyguides.com/2018/07/ruby-operators/

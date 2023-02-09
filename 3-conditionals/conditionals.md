@@ -42,4 +42,5 @@ and is even, so it is not weird. Thus, we print Not Weird.
 
 ============================================
 
-For reference: https://www.rubyguides.com/ruby-tutorial/ruby-if-else/
+Reference:
+https://www.rubyguides.com/ruby-tutorial/ruby-if-else/

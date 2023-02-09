@@ -60,3 +60,9 @@ Test Case 3:
 Because , our code should print that the person is old. Three years pass and the person is still old at , so we print the old message again.
 
 The extra line at the end of the output is supposed to be there and is trimmed before being compared against the test case's expected output. If you're failing this challenge, check your logic and review your print statements for spelling errors.
+
+=====================================
+
+Reference:
+https://www.rubyguides.com/2019/02/ruby-class/
+https://www.rubyguides.com/2018/11/attr_accessor/
