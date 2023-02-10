@@ -1,20 +1,19 @@
 i = 4
 d = 4.0
 s = 'HackerRank '
-
 # Declare second integer, double, and String variables.
-ii = gets.to_i
-dd = gets.to_f
-ss = gets.rstrip
 
 # Read and save an integer, double, and String to your variables.
+ii = int(input())
+dd = float(input())
+ss = str(input())
 
 # Print the sum of both integer variables on a new line.
-puts "#{i + ii}"
+print(i + ii)
 
 # Print the sum of the double variables on a new line.
-puts sprintf('%.1f', (d + dd).round(1))
+print(d + dd)
 
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
-puts s + ss
+print(s + ss)

@@ -39,8 +39,3 @@ is odd and odd numbers are weird, so we print Weird.
 
 Sample Case 1:
 and is even, so it is not weird. Thus, we print Not Weird.
-
-============================================
-
-Reference:
-https://www.rubyguides.com/ruby-tutorial/ruby-if-else/

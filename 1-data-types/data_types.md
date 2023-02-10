@@ -39,9 +39,3 @@ When we sum the floating-point numbers and , we get .
 When we concatenate HackerRank with is the best place to learn and practice coding!, we get HackerRank is the best place to learn and practice coding!.
 
 You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above and reading input from stdin.
-
-============================================================================
-
-Note `gets` in this case; refer to inputs. Cool new string methods learnt - `to_i` which processes string by skipping over spaces on the left and reading largest integer, `to_f` which takes string as input and produces flaot object as output and lastly `rstrip` which literally means remove all spaces on the right side.
-
-Reference: https://www.reddit.com/r/learnruby/comments/8f6t8d/30_days_of_code_day_1_data_types/

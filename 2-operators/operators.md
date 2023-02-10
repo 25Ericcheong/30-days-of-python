@@ -43,8 +43,3 @@ Given:
 Calculations:
 
 We round to the nearest integer and print the result, .
-
-=========================================
-
-Reference:
-https://www.rubyguides.com/2018/07/ruby-operators/
